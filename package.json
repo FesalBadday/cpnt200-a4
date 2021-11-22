@@ -7,17 +7,20 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "preinstall": "npx npm-force-resolutions"
+    "preinstall": "npx npm-force-resolutions",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
     "@nuxt/content": "^1.14.0",
     "core-js": "^3.15.1",
+    "gh-pages": "^3.2.3",
     "nuxt": "^2.15.7"
   },
   "devDependencies": {
     "@nuxt/image": "^0.6.0",
     "@nuxtjs/tailwindcss": "^4.2.0",
-    "postcss": "^8.3.5"
+    "postcss": "^8.3.5",
+    "push-dir": "^0.4.1"
   },
   "resolutions": {
     "nth-check": "^2.0.1",
