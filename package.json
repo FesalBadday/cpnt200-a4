@@ -25,5 +25,18 @@
   "resolutions": {
     "nth-check": "^2.0.1",
     "glob-parent": "^5.1.2"
-  }
+  },
+  "description": "## Build Setup",
+  "main": "nuxt.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FesalBadday/cpnt200-a4.git"
+  },
+  "keywords": [],
+  "author": "Fesal Badday",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FesalBadday/cpnt200-a4/issues"
+  },
+  "homepage": "https://github.com/FesalBadday/cpnt200-a4"
 }
