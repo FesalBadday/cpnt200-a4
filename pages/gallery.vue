@@ -3,11 +3,7 @@
     <Navigation />
     <Header :pageInfo="siteInfo" :galleries="galleries" />
     <main class="flex justify-evenly gap-x-16 gap-y-16 flex-wrap p-16 bg-gray-400">
-      <Gallery
-        :pageInfo="siteInfo"
-        v-for="gallery in galleries"
-        :key="gallery.id"
-        :info="gallery"
+      <Gallery :pageInfo="siteInfo" v-for="gallery in galleries" :key="gallery.id" :info="gallery"
       />
     </main>
     <Footer :pageInfo="siteInfo" />
