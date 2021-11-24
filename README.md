@@ -12,7 +12,7 @@
 
 **Information :**
 
-- 
+- I enjoyed working with both v-for and mustache syntaxes, I did add v-html/v-text but in future, I don't see any benefit of using v-html over the mustache? also, one thing I did not like about the v-for is that it's not as simple as the regular for loop just like in JS, don't get me wrong, it's easy once you do it and you get it to work but I still prefer the regular for loop. After playing with Tailwind and Vuetify for a while I can say that I like Tailwind more because it does give you more control and it has better documentation.
 
  ---
 
