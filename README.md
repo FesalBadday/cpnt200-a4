@@ -1,4 +1,4 @@
-# Assignment 4 - Vue Components and Directives
+# Vue Components and Directives
 
 ---
 
