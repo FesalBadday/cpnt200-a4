@@ -2,7 +2,7 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
   router: {
-    base: '/cpnt200-a4/'
+    base: '/vue-components-directives/'
   },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
