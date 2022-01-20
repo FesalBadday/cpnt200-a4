@@ -4,9 +4,9 @@
 
 **Author :** Fesal Badday
 
-**Repo :** [Github Repo](https://github.com/FesalBadday/cpnt200-a4)
+**Repo :** [Github Repo](https://github.com/FesalBadday/vue-components-directives)
 
-**Site :** [Github Pages](https://FesalBadday.github.io/cpnt200-a4)
+**Site :** [Github Pages](https://FesalBadday.github.io/vue-components-directives)
 
 ---
 
