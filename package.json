@@ -1,5 +1,5 @@
 {
-  "name": "cpnt200-a4",
+  "name": "vue-components-directives",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -30,13 +30,13 @@
   "main": "nuxt.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FesalBadday/cpnt200-a4.git"
+    "url": "git+https://github.com/FesalBadday/vue-components-directives.git"
   },
   "keywords": [],
   "author": "Fesal Badday",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FesalBadday/cpnt200-a4/issues"
+    "url": "https://github.com/FesalBadday/vue-components-directives/issues"
   },
-  "homepage": "https://github.com/FesalBadday/cpnt200-a4"
+  "homepage": "https://github.com/FesalBadday/vue-components-directives"
 }
